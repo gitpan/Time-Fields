@@ -29,12 +29,12 @@
 
 NAME
 
-  Time::Fields - Abstract objects to store distinct time fields.
+  Time::Fields - abstract objects to store distinct time fields
 
 VERSION
 
-  This documention refers to version 1.0.3CB7Qb0 of 
-    Time::Fields, which was released on Thu Dec 11 07:26:37:00 2003.
+  This documention refers to version 1.0.3CBIQHM of 
+    Time::Fields, which was released on Thu Dec 11 18:26:17:22 2003.
 
 SYNOPSIS
 
@@ -183,6 +183,10 @@ NOTES
 CHANGES
 
   Revision history for Perl extension Time::Fields:
+
+- 1.0.3CBIQHM  Thu Dec 11 18:26:17:22 2003
+
+  * 
 
 - 1.0.3CB7Qb0  Thu Dec 11 07:26:37:00 2003
 
